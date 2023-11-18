@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-## I'm [John Bankole]
+## I'm John Bankole
 
 I'm a dedicated DevOps engineer with one year of experience, passionate about streamlining development processes and ensuring the reliability and scalability of software applications.
 
 ### 💼 Experience
 
-#### [Wolperg] - DevOps Engineer (Month/Year - Present)
+#### [Wolperg] - DevOps Engineer/ Cloud Consultant (May/2023 - Present)    Remote
 - Implemented and maintained CI/CD pipelines, reducing deployment times and increasing release frequency.
 - Automated infrastructure provisioning and configuration using tools like Terraform and Ansible.
 - Collaborated with development and operations teams to troubleshoot and resolve issues in the production environment.

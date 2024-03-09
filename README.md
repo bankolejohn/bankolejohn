@@ -6,7 +6,12 @@ I'm a dedicated DevOps engineer with one year of experience, passionate about st
 
 ### 💼 Experience
 
-#### [Wolperg] - DevOps Engineer/ Cloud Consultant (May/2023 - Present)    Remote
+#### [EPISTIMIS] DevOps Engineer (Remote)	December 2023 - Present
+•	Designed and implemented automated CI/CD pipelines for Java projects using industry standard tools like Jenkins, Github actions,  Gitlab with SonarQube for code anaysis
+•	Developed and maintained docker images for optimized application development
+
+
+#### [Wolperg] - DevOps Engineer/ Cloud Consultant (May 2023 - Present)    Remote
 - Implemented and maintained CI/CD pipelines, reducing deployment times and increasing release frequency.
 - Automated infrastructure provisioning and configuration using tools like Terraform and Ansible.
 - Collaborated with development and operations teams to troubleshoot and resolve issues in the production environment.
@@ -17,7 +22,7 @@ I'm a dedicated DevOps engineer with one year of experience, passionate about st
 - **Continuous Integration/Delivery:** Experience with setting up and optimizing CI/CD pipelines.
 - **Containerization:** Familiar with Docker for containerization and basic usage of Kubernetes.
 - **Cloud Technologies:** Worked with cloud platforms such as AWS/Azure/GCP for deploying and managing applications.
-- **Monitoring and Logging:** Introduced monitoring solutions for improved system visibility using tools like Prometheus and ELK stack.
+- **Monitoring and Logging:** Introduced monitoring solutions for improved system visibility using tools like Prometheus, Grafana and ELK stack.
 
 ### 📚 Certifications
 

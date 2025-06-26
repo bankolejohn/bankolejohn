@@ -29,6 +29,7 @@ I'm a dedicated DevOps engineer with one year of experience, passionate about st
 - AWS Solutions Architect Associate
 - AWS Cloud Practitioner
 - CodeWithMosh Java Certification
+- Google Project Management Professional 
 
 ### 🌐 Connect with Me
 

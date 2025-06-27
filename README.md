@@ -2,7 +2,7 @@
 
 ## I'm John Bankole
 
-I'm a dedicated DevOps engineer with one year of experience, passionate about streamlining development processes and ensuring the reliability and scalability of software applications.
+I'm a dedicated DevOps engineer with three years of experience, passionate about streamlining development processes and ensuring the reliability and scalability of software applications.
 
 ### 💼 Experience
 

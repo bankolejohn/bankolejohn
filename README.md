@@ -33,13 +33,12 @@ I'm a dedicated DevOps engineer with one year of experience, passionate about st
 
 ### 🌐 Connect with Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/john-bankole-11991876/)
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/john-bankole)
 
 ### 🤝 Let's Connect
 
 I'm always eager to learn and contribute to exciting projects. If you have any questions or if you're interested in connecting, feel free to reach out!
 
-Happy coding! 🚀
 
 
 <!--

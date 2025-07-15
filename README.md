@@ -50,7 +50,7 @@ Migrated monolithic applications to a 3-tier AWS architecture
 - ✅ **AWS Solutions Architect Associate**  
 - ✅ **AWS Cloud Support Associate**  
 - ✅ **AWS Cloud Technology Consultant**  
-- ✅ **Google Project Management Certificate**  
+- ✅ **Google Project Management Professional Certificate**  
 - ✅ **McKinsey Forward Program**
 
 ---

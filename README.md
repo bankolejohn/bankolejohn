@@ -1,57 +1,67 @@
-### Hi there 👋
+# 👋 Hi there, I'm John Bankole
 
-## I'm John Bankole
+🎯 **DevOps Engineer | Cloud Enthusiast | Certified Project Manager**
 
-I'm a dedicated DevOps engineer with three years of experience, passionate about streamlining development processes and ensuring the reliability and scalability of software applications.
+Welcome to my GitHub! I'm a DevOps Engineer with a strong passion for building scalable, secure, and automated infrastructure using modern cloud-native tools. I specialize in creating CI/CD pipelines, container orchestration, infrastructure as code, and cloud optimization for high-performing applications.
 
-### 💼 Experience
+---
 
-#### [EPISTIMIS] DevOps Engineer (Remote)	December 2023 - Present
-•	Designed and implemented automated CI/CD pipelines for Java projects using industry standard tools like Jenkins, Github actions,  Gitlab with SonarQube for code anaysis
-•	Developed and maintained docker images for optimized application development
+## 💡 About Me
 
+- 🔧 **DevOps Engineer** with hands-on experience in CI/CD, Kubernetes, and AWS  
+- 📈 Proven track record of reducing deployment time by 30% and build time by 60%  
+- 💻 Builder of GitOps pipelines, Dockerized microservices, and resilient cloud solutions  
+- 🌐 Remote collaboration with global teams on production-ready DevOps projects  
+- 🏆 Top 1% of 20,000+ interns in the **HNG DevOps Internship Program**
 
-#### [Wolperg] - DevOps Engineer/ Cloud Consultant (May 2023 - Present)    Remote
-- Implemented and maintained CI/CD pipelines, reducing deployment times and increasing release frequency.
-- Automated infrastructure provisioning and configuration using tools like Terraform and Ansible.
-- Collaborated with development and operations teams to troubleshoot and resolve issues in the production environment.
+---
 
-### 🚀 Skills
+## 🛠️ Technical Skills
 
-- **Automation:** Proficient in scripting (Bash, Python) and infrastructure-as-code (Terraform, Ansible).
-- **Continuous Integration/Delivery:** Experience with setting up and optimizing CI/CD pipelines.
-- **Containerization:** Familiar with Docker for containerization and basic usage of Kubernetes.
-- **Cloud Technologies:** Worked with cloud platforms such as AWS/Azure/GCP for deploying and managing applications.
-- **Monitoring and Logging:** Introduced monitoring solutions for improved system visibility using tools like Prometheus, Grafana and ELK stack.
+| Category               | Tools & Technologies                                                                 |
+|------------------------|---------------------------------------------------------------------------------------|
+| **Cloud Platforms**    | AWS (EC2, S3, EKS, CloudFront, Route 53, CloudWatch), Cloudflare, GCP                |
+| **CI/CD & GitOps**     | GitHub Actions, Jenkins, GitLab CI, CircleCI, Argo CD                                |
+| **IaC & Automation**   | Terraform, CloudFormation, Bash, Python                                              |
+| **Containers**         | Docker, Kubernetes, Helm                                                             |
+| **Observability**      | Prometheus, ELK Stack, Sentry                                                         |
+| **Project Management** | Agile, Scrum, JIRA, Slack, Risk & Scope Management                                   |
 
-### 📚 Certifications
+---
 
-- AWS Solutions Architect Associate
-- AWS Cloud Practitioner
-- CodeWithMosh Java Certification
-- Google Project Management Professional 
+## 📂 Featured Projects
 
-### 🌐 Connect with Me
+### 🚀 Ruby on Rails DevOps Pipeline  
+CI/CD pipeline with **Tekton**, deployed to **Kubernetes**, and managed via **ArgoCD**  
+- ✔️ Built with Docker and pushed to Docker Hub  
+- ✔️ Tekton automates Git clone, build, and deployment  
+- ✔️ Full documentation available in [repo](https://github.com/bankolejohn/ruby_blog)  
 
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/john-bankole)
+### ☁️ AWS Migration Project  
+Migrated monolithic applications to a 3-tier AWS architecture  
+- ✔️ VPC with public/private subnets  
+- ✔️ EC2, ALB, RDS, Route 53 setup  
+- ✔️ Reduced deployment cost by 20%
 
-### 🤝 Let's Connect
+---
 
-I'm always eager to learn and contribute to exciting projects. If you have any questions or if you're interested in connecting, feel free to reach out!
+## 🧾 Certifications
 
+- ✅ **AWS Solutions Architect Associate**  
+- ✅ **AWS Cloud Support Associate**  
+- ✅ **AWS Cloud Technology Consultant**  
+- ✅ **Google Project Management Certificate**  
+- ✅ **McKinsey Forward Program**
 
+---
 
-<!--
-**bankolejohn/bankolejohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Let's Connect
 
-Here are some ideas to get you started:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/john-bankole)
+- 📧 bankolejohn@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+_“Automation is the art of letting your infrastructure manage itself — I just provide the instructions.”_  
+Thanks for stopping by! ⭐
+
